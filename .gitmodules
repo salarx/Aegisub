@@ -34,7 +34,7 @@
 	ignore = dirty
 [submodule "fftw"]
 	path = vendor/fftw
-	url = git://github.com/FFTW/fftw3.git.git
+	url = git://github.com/FFTW/fftw3.git
 	ignore = dirty
 [submodule "uchardet"]
 	path = vendor/uchardet
