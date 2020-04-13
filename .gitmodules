@@ -1,6 +1,6 @@
 [submodule "freetype2"]
 	path = vendor/freetype2
-	url = git://git.savannah.gnu.org/cgit/freetype/freetype2.git
+	url = git://git.savannah.gnu.org/freetype/freetype2.git
 	ignore = dirty
 [submodule "wxWidgets"]
 	path = vendor/wxWidgets
@@ -34,7 +34,7 @@
 	ignore = dirty
 [submodule "fftw"]
 	path = vendor/fftw
-	url = git://github.com/FFTW/fftw3.git.git
+	url = git://github.com/FFTW/fftw3.git
 	ignore = dirty
 [submodule "uchardet"]
 	path = vendor/uchardet
