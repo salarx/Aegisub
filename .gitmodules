@@ -1,14 +1,14 @@
 [submodule "freetype2"]
 	path = vendor/freetype2
-	url = git://git.sv.nongnu.org/freetype/freetype2.git
+	url = git://git.savannah.gnu.org/cgit/freetype/freetype2.git
 	ignore = dirty
 [submodule "wxWidgets"]
 	path = vendor/wxWidgets
-	url = git://github.com/Aegisub/wxWidgets.git
+	url = git://github.com/wxWidgets/wxWidgets.git
 	ignore = dirty
 [submodule "googletest"]
 	path = vendor/googletest
-	url = git://github.com/svn2github/googletest.git
+	url = git://github.com/google/googletest.git
 	ignore = dirty
 [submodule "ffmpeg"]
 	path = vendor/ffmpeg
@@ -25,16 +25,16 @@
 	branch = master
 [submodule "icu"]
 	path = vendor/icu
-	url = git://github.com/svn2github/icu4c.git
+	url = git://github.com/unicode-org/icu.git
 	branch = master
 	ignore = dirty
 [submodule "boost"]
 	path = vendor/boost
-	url = https://github.com/boostorg/boost.git
+	url = git://github.com/boostorg/boost.git
 	ignore = dirty
 [submodule "fftw"]
 	path = vendor/fftw
-	url = https://github.com/Aegisub/fftw3.git
+	url = git://github.com/FFTW/fftw3.git.git
 	ignore = dirty
 [submodule "uchardet"]
 	path = vendor/uchardet
